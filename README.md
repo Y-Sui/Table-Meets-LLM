@@ -122,27 +122,21 @@ Thank you for exploring the Table Meets LLM repository! We hope these tools and 
 # References
 
 ```bash
-@inproceedings{sui2023table,
-      author = {Sui, Yuan and Zhou, Mengyu and Zhou, Mingjie and Han, Shi and Zhang, Dongmei},
-      title = {Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study},
-      year = {2024},
-      isbn = {9798400703713},
-      publisher = {Association for Computing Machinery},
-      address = {New York, NY, USA},
-      url = {https://doi-org.libproxy1.nus.edu.sg/10.1145/3616855.3635752},
-      doi = {10.1145/3616855.3635752},
-      booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
-      pages = {645–654},
-      numpages = {10},
-      keywords = {benchmark, large language models, semi-structured data, structural understanding capabilities},
-      location = {Merida, Mexico},
-      series = {WSDM-24}
+@article{sui2023table,
+  title     = {Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study},
+  author    = {Yuan Sui and Mengyu Zhou and Mingjie Zhou and Shi Han and Dongmei Zhang},
+  journal   = {Web Search and Data Mining},
+  year      = {2023},
+  doi       = {10.1145/3616855.3635752},
+  bibSource = {Semantic Scholar https://www.semanticscholar.org/paper/f534f566535f4e0fd2b72b1db3b18c47479e5092}
 }
 
 @article{sui2023tap4llm,
-      title={Tap4llm: Table provider on sampling, augmenting, and packing semi-structured data for large language model reasoning},
-      author={Sui, Yuan and Zou, Jiaru and Zhou, Mengyu and He, Xinyi and Du, Lun and Han, Shi and Zhang, Dongmei},
-      journal={arXiv preprint arXiv:2312.09039},
-      year={2023}
+  title     = {TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning},
+  author    = {Yuan Sui and Jiaru Zou and Mengyu Zhou and Xinyi He and Lun Du and Shi Han and Dongmei Zhang},
+  journal   = {Conference on Empirical Methods in Natural Language Processing},
+  year      = {2023},
+  doi       = {10.48550/arXiv.2312.09039},
+  bibSource = {Semantic Scholar https://www.semanticscholar.org/paper/00a67af3b7dc785b4813b61d232cc76b4fb2b189}
 }
 ```
