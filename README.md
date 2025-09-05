@@ -1,5 +1,7 @@
 # Table meets LLM
 
+**[UPDATE]**: **PLease check our latest version of relased code at https://github.com/microsoft/TableProvider/tree/main/table_provider.** The repo will be deprecated later!
+
 **[UPDATE]**: We are excited our paper ["Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study"](https://dl.acm.org/doi/10.1145/3616855.3635752) has been accepted by WSDM'24!
 
 **[UPDATE]**: We are excited our paper ["TAP4LLM: Table Provider on Sampling, Augmenting, and Packing Semi-structured Data for Large Language Model Reasoning"](https://arxiv.org/abs/2312.09039) has been accepted by EMNLP'24!
